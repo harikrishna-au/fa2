@@ -1,0 +1,19 @@
+FA2 PRACTICE PACK CONTENTS
+
+.env.example
+FA2_Mock_P1.py
+FA2_Mock_P2.py
+README_START_HERE.md
+check_setup.py
+data/Predefined_Evidence_Datasets.txt
+data/evidence.json
+data/sample_claims.txt
+data/source_article.txt
+docs/FA2_Practice_Question_Paper.pdf
+docs/RECONSTRUCTION_NOTES.md
+docs/REFERENCE_SYNTAX.md
+docs/SELF_CHECK.md
+originals/original_code_photos.pdf
+originals/original_question_photos.pdf
+requirements.txt
+MANIFEST.txt

@@ -1,0 +1,6 @@
+# Practice dependency ranges, not a recovered Infosys environment lockfile.
+langgraph>=1.0,<2
+langchain-core>=1.0,<2
+langchain-aws>=1.0,<2
+python-dotenv>=1.0,<2
+grandalf>=0.8,<1
